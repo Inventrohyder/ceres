@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: f7e7bfb480c3b47eb940f7e318adad41
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Coffee_maker_lacemary_bolts
+    100002: Coffee_maker_lacemary_corpus
+    100004: Coffee_maker_lacemary_cup
+    100006: Coffee_maker_lacemary_glass
+    100008: Coffee_maker_lacemary_logo
+    100010: Coffee_maker_lacemary_panels
+    100012: Coffee_maker_lacemary_red_lamp
+    100014: Coffee_maker_lacemary_ring_metal
+    100016: //RootNode
+    400000: Coffee_maker_lacemary_bolts
+    400002: Coffee_maker_lacemary_corpus
+    400004: Coffee_maker_lacemary_cup
+    400006: Coffee_maker_lacemary_glass
+    400008: Coffee_maker_lacemary_logo
+    400010: Coffee_maker_lacemary_panels
+    400012: Coffee_maker_lacemary_red_lamp
+    400014: Coffee_maker_lacemary_ring_metal
+    400016: //RootNode
+    2100000: Coffee_maker_lacemary_bolts
+    2100002: Coffee_maker_lacemary_corpus
+    2100004: Coffee_maker_lacemary_cup_plastic
+    2100006: Coffee_maker_lacemary_glass
+    2100008: Coffee_maker_lacemary_logo
+    2100010: Coffee_maker_lacemary_panel
+    2100012: Coffee_maker_lacemary_ring
+    2300000: Coffee_maker_lacemary_bolts
+    2300002: Coffee_maker_lacemary_corpus
+    2300004: Coffee_maker_lacemary_cup
+    2300006: Coffee_maker_lacemary_glass
+    2300008: Coffee_maker_lacemary_logo
+    2300010: Coffee_maker_lacemary_panels
+    2300012: Coffee_maker_lacemary_red_lamp
+    2300014: Coffee_maker_lacemary_ring_metal
+    3300000: Coffee_maker_lacemary_bolts
+    3300002: Coffee_maker_lacemary_corpus
+    3300004: Coffee_maker_lacemary_cup
+    3300006: Coffee_maker_lacemary_glass
+    3300008: Coffee_maker_lacemary_logo
+    3300010: Coffee_maker_lacemary_panels
+    3300012: Coffee_maker_lacemary_red_lamp
+    3300014: Coffee_maker_lacemary_ring_metal
+    4300000: Coffee_maker_lacemary_bolts
+    4300002: Coffee_maker_lacemary_corpus
+    4300004: Coffee_maker_lacemary_cup
+    4300006: Coffee_maker_lacemary_glass
+    4300008: Coffee_maker_lacemary_logo
+    4300010: Coffee_maker_lacemary_panels
+    4300012: Coffee_maker_lacemary_red_lamp
+    4300014: Coffee_maker_lacemary_ring_metal
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
