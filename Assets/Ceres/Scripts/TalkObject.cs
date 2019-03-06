@@ -9,7 +9,6 @@ public class TalkObject : MonoBehaviour
         GameObject[] spinoffs = GameObject.FindGameObjectsWithTag("spinoff");
         foreach (GameObject spinoff in spinoffs)
         {
-            Debug.Log(spinoff.name);
             spinoff.transform.localScale = new Vector3(0, 0, 0);
         }
 
