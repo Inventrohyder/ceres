@@ -6,7 +6,7 @@ LightmapParameters:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: VRND-Course2
+  m_Name: Ceres
   serializedVersion: 3
   resolution: 1
   clusterResolution: 0.5
