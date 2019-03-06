@@ -1,3 +1,3 @@
-# space-trove
-This is the unity project that Team Eris built for NASA Space Apps Hackathon 2018
-to tackle the virtual space exploration challenge.
+# Ceres
+This is the unity project that Ceres built for SF Hacks Hackathon 2019.
+Also, it is the final project for Minerva first year.
