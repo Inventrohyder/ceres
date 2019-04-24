@@ -1,90 +1,76 @@
-# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# File Created: 17.11.2011 12:40:35
-
-newmtl Coffee_maker_lacemary_logo
-	Ns 55.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 0.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 1.0000 1.0000 1.0000
-	Kd 1.0000 1.0000 1.0000
-	Ks 0.5490 0.5490 0.5490
-	Ke 0.0000 0.0000 0.0000
-	map_Ka coffee_maker_lacemary_logo.jpg
-	map_Kd coffee_maker_lacemary_logo.jpg
-
-newmtl Coffee_maker_lacemary_corpus
-	Ns 55.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 0.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.0667 0.0667 0.0667
-	Kd 0.0667 0.0667 0.0667
-	Ks 0.5490 0.5490 0.5490
-	Ke 0.0000 0.0000 0.0000
-
-newmtl Coffee_maker_lacemary_panel
-	Ns 75.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 0.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 1.0000 1.0000 1.0000
-	Kd 1.0000 1.0000 1.0000
-	Ks 0.6750 0.6750 0.6750
-	Ke 0.0000 0.0000 0.0000
-	map_Ka coffee_maker_lacemary_panel.jpg
-	map_Kd coffee_maker_lacemary_panel.jpg
+# Blender MTL File: 'None'
+# Material Count: 7
 
 newmtl Coffee_maker_lacemary_bolts
-	Ns 75.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 0.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.5882 0.5882 0.5882
-	Kd 0.5882 0.5882 0.5882
-	Ks 0.5670 0.5670 0.5670
-	Ke 0.0000 0.0000 0.0000
+Ns 74.509804
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.567000 0.567000 0.567000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
 
-newmtl Coffee_maker_lacemary_glass
-	Ns 89.0000
-	Ni 1.5000
-	d 0.2500
-	Tr 0.7500
-	Tf 0.2500 0.2500 0.2500 
-	illum 2
-	Ka 0.0000 0.0706 0.1373
-	Kd 0.2157 0.2706 0.3216
-	Ks 0.8471 0.9020 0.9020
-	Ke 0.0000 0.0000 0.0000
-
-newmtl Coffee_maker_lacemary_ring
-	Ns 75.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 0.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.5882 0.5882 0.5882
-	Kd 0.5882 0.5882 0.5882
-	Ks 0.5400 0.5400 0.5400
-	Ke 0.0000 0.0000 0.0000
+newmtl Coffee_maker_lacemary_corpus
+Ns 54.901961
+Ka 0.066700 0.066700 0.066700
+Kd 0.066700 0.066700 0.066700
+Ks 0.549000 0.549000 0.549000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
 
 newmtl Coffee_maker_lacemary_cup_plastic
-	Ns 55.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 0.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.0667 0.0667 0.0667
-	Kd 0.0667 0.0667 0.0667
-	Ks 0.5490 0.5490 0.5490
-	Ke 0.0000 0.0000 0.0000
+Ns 54.901961
+Ka 0.066700 0.066700 0.066700
+Kd 0.066700 0.066700 0.066700
+Ks 0.549000 0.549000 0.549000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Coffee_maker_lacemary_glass
+Ns 88.235294
+Ka 0.069300 0.069300 0.069300
+Kd 0.215700 0.270600 0.321600
+Ks 0.847100 0.902000 0.902000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.250000
+illum 2
+
+newmtl Coffee_maker_lacemary_logo
+Ns 54.901961
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.549000 0.549000 0.549000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd coffee_maker_lacemary_logo.jpg
+map_Ka coffee_maker_lacemary_logo.jpg
+
+newmtl Coffee_maker_lacemary_panel
+Ns 74.509804
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.675000 0.675000 0.675000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd coffee_maker_lacemary_panel.jpg
+map_Ka coffee_maker_lacemary_panel.jpg
+
+newmtl Coffee_maker_lacemary_ring
+Ns 74.509804
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.540000 0.540000 0.540000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
