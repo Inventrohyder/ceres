@@ -69,6 +69,10 @@ public class PointsManager : MonoBehaviour
         // Access this game object's animator and turn it on
         Animator spinoffAnimator = clickeObject.GetComponent<Animator>();
         spinoffAnimator.enabled = true;
-        
+
+        // Access the objects collider and turn it off to prevent clicks
+        // gathering additional points
+        Collider collider = clickeObject.GetComponent<Collider>();
+        collider.enabled = false;
     }
 }
