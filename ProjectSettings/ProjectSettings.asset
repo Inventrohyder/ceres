@@ -370,6 +370,7 @@ PlayerSettings:
     m_Enabled: 1
     m_Devices:
     - cardboard
+    - daydream
   - m_BuildTarget: iPhone
     m_Enabled: 1
     m_Devices:
