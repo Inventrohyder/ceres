@@ -36,6 +36,10 @@ public class TimeKeeper : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        // Access the audio source of timer text
+        AudioSource audioSource = timerText.GetComponent<AudioSource>();
+
+
         // Continue counting the time as long as it is less than the maximum
         // and it is not waiting time
         if (time > 0 && wait)
@@ -46,6 +50,16 @@ public class TimeKeeper : MonoBehaviour
             time -= nextTime;
             // Show our current time rounded off
             timerText.text = Math.Round(time).ToString();
+
+            // Continue the clocking sound if it is not playing
+            if (!audioSource.isPlaying)
+            {
+                audioSource.Play();
+            }
+        } else
+        {
+            // Pause the clocking sound
+            audioSource.Pause();
         }
 
 
